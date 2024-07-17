@@ -21,3 +21,4 @@ def encontrar_menor_mayor(lista_numeros):
 numeros = [2, 7, 20, 1, 5]
 resultado = encontrar_menor_mayor(numeros)
 print(resultado)
+
