@@ -14,6 +14,6 @@ def contar_vocales(texto):
     return vocales
 
 # Ejemplo de uso
-texto_ejemplo = "Hola, este es un ejemplo de texto con vocales."
+texto_ejemplo = "Hola, apruebeme pe profe."
 resultado = contar_vocales(texto_ejemplo)
 print(resultado)
